@@ -1,0 +1,4 @@
+﻿  CBulb.cpp
+  main.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'C:\Users\Derek Zhang\Dropbox\MECH 4.0\CPEN 333\Lab 1\CPEN333-LAB1\Debug\CPEN333-LAB1.exe'
