@@ -5,8 +5,8 @@ class Node {
 public:
 	Node* next;
 	int data;
-	Node();
-	Node(int value);
+	Node() : next(nullptr) {}
+	Node(int value) : data(value), next(nullptr) {}
 };
 
 class CList {
